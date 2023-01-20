@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "724303625282",
+    "project_id": "lectureapp-b1ed1",
+    "storage_bucket": "lectureapp-b1ed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724303625282:android:19a97cdc9e66eeeb64c1db",
+        "android_client_info": {
+          "package_name": "com.example.lecture_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724303625282-as3bku6ai2qhv1r0n74su1ia9g73v7kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lecture_app",
+            "certificate_hash": "eb5dacb236f8361da305f5b2887e7eedd473d4e0"
+          }
+        },
+        {
+          "client_id": "724303625282-v63noh3jeovu2ihnoqf5nfqg984oghgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-YDMod4NWxp1Be3kCvXC-cy8kcBIeXWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724303625282-v63noh3jeovu2ihnoqf5nfqg984oghgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
